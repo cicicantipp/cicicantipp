@@ -4,11 +4,10 @@
 ---
 
 ## 🌸 About Me
-<p align="center">
-🎓 Computer Engineering student [Universitas Negeri Makassar]
-💻 Exploring Programming (JavaScript, Python, PHP, and C++)
-🌐 Always wanted to know how technology works
-🚀 Believing that innovation starts with curiosity
+🎓 Computer Engineering student [Universitas Negeri Makassar] <br>
+💻 Exploring Programming (JavaScript, Python, PHP, and C++) <br>
+🌐 Always wanted to know how technology works <br>
+🚀 Believing that innovation starts with curiosity <br>
 
 ---
 ## 💌 Connect With Me
