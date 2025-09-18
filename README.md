@@ -1,11 +1,10 @@
 #  Hi, I'm cicii!! 👋
 ![Coding Girl](https://i.gifer.com/tHh.gif)
-<p align="center">
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=FF69B4&center=true&vCenter=true&lines=Computer+Engineering+Student;Learning+AI,+Code+%26+Networks;Turning+Ideas+into+Reality;Every+line+of+code+you+write+is+a+small+step+towards+a+bigger+future)
-</p>
+
 ---
 
 ## 🌸 About Me
+<p align="center">
 🎓 Computer Engineering student [Universitas Negeri Makassar]
 💻 Exploring Programming (JavaScript, Python, PHP, and C++)
 🌐 Always wanted to know how technology works
