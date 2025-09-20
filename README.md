@@ -1,5 +1,5 @@
 #  Hi, I'm cicii!! 👋
-![Coding Girl](https://i.gifer.com/tHh.gif)
+![Coding Girl](https://i.gifer.com/Oxh7.gif)
 
 ---
 
